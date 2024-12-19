@@ -1,2 +1,2 @@
 # Job Scheduler
-It's a Simple Golang Script That Automates The Management of Cron Jobs.
+It's a Simple Golang Script That Automates The Management of Cron Jobs
